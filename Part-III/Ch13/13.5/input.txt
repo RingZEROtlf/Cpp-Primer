@@ -1,0 +1,5 @@
+A set element contains only a key; element
+operator creates a new element
+Regardless of whether the element
+When we fetch an element from a map, we
+If the element is not found, find returns
