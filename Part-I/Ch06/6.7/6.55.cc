@@ -1,7 +1,7 @@
 #include <vector>
 using std::vector;
 
-vector<int(int, int)> vec;
+vector<int(*)(int, int)> vec;
 
 int sum(int a, int b)
 {
